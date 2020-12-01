@@ -1,0 +1,7 @@
+POST https://stark-coast-54592.herokuapp.com/api/persons
+Content-Type: application/json
+
+{
+  "name": "Aku Ankka",
+  "number": "313-131313"
+}
